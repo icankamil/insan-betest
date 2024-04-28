@@ -1,0 +1,4 @@
+# exclude node_modules
+node_modules/
+users/node_modules
+auth/node_modules
